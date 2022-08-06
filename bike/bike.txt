@@ -1,0 +1,7 @@
+this is a simple analysis bike project which answer some questions after cleaning data and here is the steps 
+1-clean the data and remove dublicate elements
+2-first question if the customer income change whether he buy bike or no through Appropriate chart 
+3-second question is there a relationship between the custome who buy a bike and the distance between his work and home
+4-third question who is the most age that target the bike
+
+using analysis to extract information fom this dataset and visualize the result at smart 
